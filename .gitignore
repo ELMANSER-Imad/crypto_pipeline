@@ -1,0 +1,10 @@
+# Ignorer les fichiers Airflow temporaires
+airflow.db
+airflow.cfg
+logs/
+*.log
+*.out
+*.err
+*.pid
+.vscode/
+
